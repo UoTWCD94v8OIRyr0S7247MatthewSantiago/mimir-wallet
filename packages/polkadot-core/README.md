@@ -193,3 +193,4 @@ This package is part of the Mimir Wallet monorepo. Please see the main [Contribu
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](../../LICENSE) for details.
+<!-- Auto-update: 2025-10-17T13:27:16.036267 -->
